@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectData\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|d:\\projectdata\\project\\project\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|solutionrelative:project\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|D:\\ProjectData\\Project\\project\\dbservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|solutionrelative:project\\dbservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|d:\\projectdata\\project\\project\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|solutionrelative:project\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|d:\\projectdata\\project\\project\\dashbord.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|solutionrelative:project\\dashbord.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|d:\\projectdata\\project\\project\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|solutionrelative:project\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|D:\\ProjectData\\Project\\project\\datacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|solutionrelative:project\\datacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|D:\\ProjectData\\Project\\project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|solutionrelative:project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|D:\\ProjectData\\Project\\project\\dbservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{5D21EC3B-545C-4354-B7B6-D8D8440FC879}|Project\\Project.csproj|solutionrelative:project\\dbservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\ProjectData\\Project\\Project\\index.html",
+              "RelativeDocumentMoniker": "Project\\index.html",
+              "ToolTip": "D:\\ProjectData\\Project\\Project\\index.html",
+              "RelativeToolTip": "Project\\index.html",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-30T15:54:05.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\ProjectData\\Project\\Project\\index.js",
+              "RelativeDocumentMoniker": "Project\\index.js",
+              "ToolTip": "D:\\ProjectData\\Project\\Project\\index.js",
+              "RelativeToolTip": "Project\\index.js",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T14:26:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbService.svc.cs",
+              "DocumentMoniker": "D:\\ProjectData\\Project\\Project\\dbService.svc.cs",
+              "RelativeDocumentMoniker": "Project\\dbService.svc.cs",
+              "ToolTip": "D:\\ProjectData\\Project\\Project\\dbService.svc.cs",
+              "RelativeToolTip": "Project\\dbService.svc.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:47:12.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbService.svc",
+              "DocumentMoniker": "D:\\ProjectData\\Project\\Project\\dbService.svc",
+              "RelativeDocumentMoniker": "Project\\dbService.svc",
+              "ToolTip": "D:\\ProjectData\\Project\\Project\\dbService.svc",
+              "RelativeToolTip": "Project\\dbService.svc",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2024-10-29T15:13:10.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdbService.cs",
+              "DocumentMoniker": "D:\\ProjectData\\Project\\Project\\IdbService.cs",
+              "RelativeDocumentMoniker": "Project\\IdbService.cs",
+              "ToolTip": "D:\\ProjectData\\Project\\Project\\IdbService.cs",
+              "RelativeToolTip": "Project\\IdbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:08:15.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\ProjectData\\Project\\Project\\Web.config",
+              "RelativeDocumentMoniker": "Project\\Web.config",
+              "ToolTip": "D:\\ProjectData\\Project\\Project\\Web.config",
+              "RelativeToolTip": "Project\\Web.config",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T15:06:32.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashbord.html",
+              "DocumentMoniker": "D:\\ProjectData\\Project\\Project\\dashbord.html",
+              "RelativeDocumentMoniker": "Project\\dashbord.html",
+              "ToolTip": "D:\\ProjectData\\Project\\Project\\dashbord.html",
+              "RelativeToolTip": "Project\\dashbord.html",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-29T12:32:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dataContract.cs",
+              "DocumentMoniker": "D:\\ProjectData\\Project\\Project\\dataContract.cs",
+              "RelativeDocumentMoniker": "Project\\dataContract.cs",
+              "ToolTip": "D:\\ProjectData\\Project\\Project\\dataContract.cs",
+              "RelativeToolTip": "Project\\dataContract.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:48:19.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
